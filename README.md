@@ -13,17 +13,17 @@ I will add onto this during the week as I have time, I am hoping to include phot
 
 TLDR - 
 
-The setup is 
-    Raspberry pi 4 (8gb version)
-    Hifiberry dac +
-    NVMe M.2 to USB 3.0 enclosure with a NVMe SSD
-    32gb SD card
-    Ground loop isolator (very important)
-    A heatspreader with an integrated cooling fan
-    RTC battery (important for boot time times, I did not find a way to bypass this without the RTC battery)
-    A 3D printed case for the raspberry pi 
-    A good phone charger. I will have a couple I tested listed later on.
-    Some cabling, mostly short double 90° usb C cable, Double RCA to a 90° 3.5mm Jack
+The setup is -
+    Raspberry pi 4 (8gb version),
+    Hifiberry dac +,
+    NVMe M.2 to USB 3.0 enclosure with a NVMe SSD,
+    32gb SD card,
+    Ground loop isolator (very important),
+    A heatspreader with an integrated cooling fan,
+    RTC battery (important for boot time times, I did not find a way to bypass this without the RTC battery),
+    A 3D printed case for the raspberry pi,
+    A good phone charger. I will have a couple I tested listed later on,
+    Some cabling, mostly short double 90° usb C cable, Double RCA to a 90° 3.5mm Jack,
 
 An installation of PiCorePlayer -  (https://www.picoreplayer.org/) (https://github.com/piCorePlayer)
 Pick the 32bit version, I have experienced ALOT of weirdness during the setup and isntability later on running a 64bit version.
